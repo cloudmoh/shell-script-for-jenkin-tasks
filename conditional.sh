@@ -5,4 +5,5 @@ if [ x$FIRST_ARGUMENT = "xHans" ]; then
   echo "Hello Hans, how are you"
 else
   echo "Hello Hans"
+  echo "Hello Akram"
 fi
