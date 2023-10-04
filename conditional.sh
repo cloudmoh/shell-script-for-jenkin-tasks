@@ -2,7 +2,7 @@
 #!/bin/bash
 FIRST_ARGUMENT="$1"
 if [ x$FIRST_ARGUMENT = "xHans" ]; then
-  echo "Hello Hans, good to see you"
+  echo "Hello Hans, how are you"
 else
-  echo "Hello World"
+  echo "Hello Hans"
 fi
